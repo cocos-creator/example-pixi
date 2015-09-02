@@ -1,0 +1,86 @@
+[
+  {
+    "__type__": "Fire.Scene",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "scene": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "Runtime.StageWrapper",
+    "content": [
+      {
+        "c": [
+          {
+            "w": {
+              "__id__": 1
+            },
+            "t": {
+              "object": {
+                "__id__": 2
+              }
+            },
+            "m": "5d6d0/kH0VPV6gH8MWmsD/F"
+          },
+          {
+            "w": {
+              "__id__": 2
+            }
+          }
+        ],
+        "uuid": "ea91e844-16cc-451b-9567-5badfda4c666"
+      },
+      {
+        "__type__": "Runtime.ContainerWrapper",
+        "_name": "New Container",
+        "_objFlags": 0,
+        "_id": "219e5Yf4NdFJpPkJb+RtXFK",
+        "_position": [
+          227.14285714285737,
+          205.71428571428575
+        ],
+        "_scale": [
+          1,
+          1
+        ],
+        "_rotation": 0,
+        "_pivot": [
+          0,
+          0
+        ],
+        "_alpha": 1
+      },
+      {
+        "__type__": "Runtime.SpriteWrapper",
+        "_name": "New Sprite",
+        "_objFlags": 0,
+        "_id": "21892QX9TRD3ZjVx9Z3U5Hw",
+        "_position": [
+          320.0000000000001,
+          94.28571428571433
+        ],
+        "_scale": [
+          1,
+          1
+        ],
+        "_rotation": 0,
+        "_pivot": [
+          0,
+          0
+        ],
+        "_alpha": 1,
+        "_texture": {
+          "__uuid__": "c1f98cd4-8343-40c2-9eed-f968e37b9266"
+        },
+        "_anchor": [
+          0.5,
+          0.5
+        ],
+        "_tint": 16777215,
+        "_blendMode": 0
+      }
+    ]
+  }
+]

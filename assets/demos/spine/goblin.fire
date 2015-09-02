@@ -1,0 +1,54 @@
+[
+  {
+    "__type__": "Fire.Scene",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "scene": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "Runtime.StageWrapper",
+    "content": [
+      {
+        "c": [
+          {
+            "w": {
+              "__id__": 1
+            },
+            "t": {},
+            "m": "e46715BOCdDQJPQNGVqUvTF"
+          }
+        ],
+        "uuid": "07070c0b-d7ef-4d41-a553-a0bb7871c870"
+      },
+      {
+        "__type__": "Runtime.SpineWrapper",
+        "_name": "New Spine",
+        "_objFlags": 0,
+        "_id": "4080dyG4NVPWLgB7E6eeNuJ",
+        "_position": [
+          320.00000000000017,
+          471.07544141252004
+        ],
+        "_scale": [
+          1.2091452377915606,
+          1.2091452377915606
+        ],
+        "_rotation": 0,
+        "_pivot": [
+          0,
+          0
+        ],
+        "_alpha": 1,
+        "startAnimation": "walk",
+        "loop": true,
+        "_valOf$spineData": {
+          "__uuid__": "db4b0ec3-8e86-46a5-883b-7d622f025aad"
+        },
+        "_valOf$skin": "goblin"
+      }
+    ]
+  }
+]

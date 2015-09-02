@@ -1,0 +1,59 @@
+[
+  {
+    "__type__": "Fire.Scene",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "scene": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "Runtime.StageWrapper",
+    "content": [
+      {
+        "c": [
+          {
+            "w": {
+              "__id__": 1
+            },
+            "t": {
+              "texture": {
+                "__uuid__": "e17423f4-3ffb-4d8e-85be-e0e1879c9675"
+              }
+            },
+            "m": "7d063TbQiJLkLswaFwGQIpM"
+          }
+        ],
+        "uuid": "b2f059f8-cf2e-4432-ae2a-2baac67b5bee"
+      },
+      {
+        "__type__": "Runtime.ParticleContainerWrapper",
+        "_name": "New ParticleContainer",
+        "_objFlags": 0,
+        "_id": "ab8afuwo3BN0JQx5o++oEHy",
+        "_position": [
+          0,
+          0
+        ],
+        "_scale": [
+          1,
+          1
+        ],
+        "_rotation": 0,
+        "_pivot": [
+          0,
+          0
+        ],
+        "_alpha": 1,
+        "maxSize": 15000,
+        "enableScale": true,
+        "enablePosition": true,
+        "enableRotation": true,
+        "enableUvs": true,
+        "enableAlpha": true,
+        "_blendMode": 0
+      }
+    ]
+  }
+]

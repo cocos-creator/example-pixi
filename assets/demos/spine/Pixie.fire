@@ -1,0 +1,54 @@
+[
+  {
+    "__type__": "Fire.Scene",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "scene": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "Runtime.StageWrapper",
+    "content": [
+      {
+        "c": [
+          {
+            "w": {
+              "__id__": 1
+            },
+            "t": {},
+            "m": "5ef966u0UlIOKRjjUOoLR+k"
+          }
+        ],
+        "uuid": "3306096f-e56f-4c37-acb8-94746aa3c19e"
+      },
+      {
+        "__type__": "Runtime.SpineWrapper",
+        "_name": "New Spine",
+        "_objFlags": 0,
+        "_id": "b0ca7O13C5PlJJqnVNR8EwE",
+        "_position": [
+          320.0000000000001,
+          451.2953554609031
+        ],
+        "_scale": [
+          0.3,
+          0.3
+        ],
+        "_rotation": 0,
+        "_pivot": [
+          0,
+          0
+        ],
+        "_alpha": 1,
+        "startAnimation": "running",
+        "loop": true,
+        "_valOf$spineData": {
+          "__uuid__": "70552295-5e11-429c-802f-e3bd8c9f75d4"
+        },
+        "_valOf$skin": ""
+      }
+    ]
+  }
+]

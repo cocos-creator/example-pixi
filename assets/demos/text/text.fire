@@ -1,0 +1,72 @@
+[
+  {
+    "__type__": "Fire.Scene",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "scene": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "Runtime.StageWrapper",
+    "content": [
+      {
+        "c": [
+          {
+            "w": {
+              "__id__": 1
+            }
+          }
+        ],
+        "uuid": "d2cf1504-ea63-45b1-b510-456f1aae59de"
+      },
+      {
+        "__type__": "Runtime.TextWrapper",
+        "_name": "New Text",
+        "_objFlags": 0,
+        "_id": "8e991DZ2hlGsomR68lGmyQ2",
+        "_position": [
+          320,
+          240
+        ],
+        "_scale": [
+          1,
+          1
+        ],
+        "_rotation": 0,
+        "_pivot": [
+          0,
+          0
+        ],
+        "_alpha": 1,
+        "_textureType": 0,
+        "_anchor": [
+          0.5,
+          0.5
+        ],
+        "_tint": 16777215,
+        "_blendMode": 0,
+        "_valOf$textureType": 0,
+        "_text": "Rich text with a lot of options and across multiple lines",
+        "_lineHeight": null,
+        "_valOf$font": "bold 20px Arial",
+        "_valOf$fill": "#F7EDCA",
+        "_valOf$align": "left",
+        "_valOf$stroke": "'#4a1850'",
+        "_valOf$strokeThickness": 5,
+        "_valOf$wordWrap": true,
+        "_valOf$wordWrapWidth": 440,
+        "_valOf$lineHeight": -1,
+        "_valOf$dropShadow": true,
+        "_valOf$dropShadowColor": "black",
+        "_valOf$dropShadowAngle": 0.7853981633974483,
+        "_valOf$dropShadowDistance": 6,
+        "_valOf$padding": 0,
+        "_valOf$textBaseline": "alphabetic",
+        "_valOf$lineJoin": "miter",
+        "_valOf$miterLimit": 10
+      }
+    ]
+  }
+]

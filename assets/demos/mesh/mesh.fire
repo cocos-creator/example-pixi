@@ -1,0 +1,51 @@
+[
+  {
+    "__type__": "Fire.Scene",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "scene": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "Runtime.StageWrapper",
+    "content": [
+      {
+        "c": [
+          {
+            "w": {
+              "__id__": 1
+            }
+          }
+        ],
+        "uuid": "7d5c9333-d7b3-4681-9be7-c459c579da4d"
+      },
+      {
+        "__type__": "Runtime.MeshWrapper",
+        "_name": "New Mesh",
+        "_objFlags": 0,
+        "_id": "2f3c93+/2VEYYpnpHQjUS0R",
+        "_position": [
+          320.0000000000001,
+          297.14285714285717
+        ],
+        "_scale": [
+          1,
+          1
+        ],
+        "_rotation": 0,
+        "_pivot": [
+          0,
+          0
+        ],
+        "_alpha": 1,
+        "_drawMode": 0,
+        "_texture": {
+          "__uuid__": "c1f98cd4-8343-40c2-9eed-f968e37b9266"
+        },
+        "_blendMode": 0
+      }
+    ]
+  }
+]

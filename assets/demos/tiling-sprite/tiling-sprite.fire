@@ -1,0 +1,71 @@
+[
+  {
+    "__type__": "Fire.Scene",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "scene": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "Runtime.StageWrapper",
+    "content": [
+      {
+        "c": [
+          {
+            "w": {
+              "__id__": 1
+            },
+            "t": {},
+            "m": "03f196n8p5KRrbZKQfP0A9d"
+          }
+        ],
+        "uuid": "40b65f6d-09da-49f9-bfe4-f49515a35b6b"
+      },
+      {
+        "__type__": "Runtime.TilingSpriteWrapper",
+        "_name": "New TilingSprite",
+        "_objFlags": 0,
+        "_id": "41cb5bvzThNYr0OrpGQe/tH",
+        "_position": [
+          320,
+          240
+        ],
+        "_scale": [
+          1,
+          1
+        ],
+        "_rotation": 0,
+        "_pivot": [
+          0,
+          0
+        ],
+        "_alpha": 1,
+        "_textureType": 0,
+        "_texture": {
+          "__uuid__": "f207f060-bfc4-4e7c-9226-6f411e7bff99"
+        },
+        "_anchor": [
+          0.5,
+          0.5
+        ],
+        "_tint": 16777215,
+        "_blendMode": 0,
+        "_valOf$textureType": 0,
+        "_tileScale": [
+          1,
+          1
+        ],
+        "_tilePosition": [
+          0,
+          0
+        ],
+        "_size": [
+          640,
+          480
+        ]
+      }
+    ]
+  }
+]

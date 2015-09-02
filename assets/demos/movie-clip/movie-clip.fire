@@ -1,0 +1,119 @@
+[
+  {
+    "__type__": "Fire.Scene",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "scene": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "Runtime.StageWrapper",
+    "content": [
+      {
+        "c": [
+          {
+            "w": {
+              "__id__": 1
+            },
+            "t": {
+              "speed": 3.14
+            },
+            "m": "6e1863zMS5HgaGP2jtXrVN3"
+          },
+          {
+            "w": {
+              "__id__": 2
+            }
+          }
+        ],
+        "uuid": "76b27e7b-8fc0-4cb8-92cf-414f4195af06"
+      },
+      {
+        "__type__": "Runtime.MovieClipWrapper",
+        "_name": "New MovieClip",
+        "_objFlags": 0,
+        "_id": "163c572liNAmqsa5z/2Gb/J",
+        "_position": [
+          200,
+          240
+        ],
+        "_scale": [
+          1,
+          1
+        ],
+        "_rotation": 0,
+        "_pivot": [
+          0,
+          0
+        ],
+        "_alpha": 1,
+        "_texture": {
+          "__uuid__": "b9aaf617-7c22-47a4-aa45-5970ae118ac9"
+        },
+        "_anchor": [
+          0.5,
+          0.5
+        ],
+        "_tint": 10631738,
+        "_blendMode": 0,
+        "autoPlay": true,
+        "_loop": true,
+        "_animationSpeed": 0.5,
+        "_valOf$spriteSheet": {
+          "__uuid__": "4333c018-6419-4f57-afc6-21f05916254c"
+        },
+        "_valOf$prefix": "rollSequence00",
+        "_valOf$subfix": ".png",
+        "_valOf$range": {
+          "__type__": "Fire.Vec2",
+          "x": 0,
+          "y": 29
+        }
+      },
+      {
+        "__type__": "Runtime.MovieClipWrapper",
+        "_name": "New MovieClip",
+        "_objFlags": 0,
+        "_id": "95b1bJwwtFFWb6MJ/RBEGKr",
+        "_position": [
+          440,
+          240
+        ],
+        "_scale": [
+          1,
+          1
+        ],
+        "_rotation": 0,
+        "_pivot": [
+          0,
+          0
+        ],
+        "_alpha": 0.67,
+        "_texture": {
+          "__uuid__": "b9aaf617-7c22-47a4-aa45-5970ae118ac9"
+        },
+        "_anchor": [
+          0.5,
+          0.5
+        ],
+        "_tint": 16777215,
+        "_blendMode": 0,
+        "autoPlay": true,
+        "_loop": true,
+        "_animationSpeed": 0.5,
+        "_valOf$spriteSheet": {
+          "__uuid__": "4333c018-6419-4f57-afc6-21f05916254c"
+        },
+        "_valOf$prefix": "rollSequence00",
+        "_valOf$subfix": ".png",
+        "_valOf$range": {
+          "__type__": "Fire.Vec2",
+          "x": 0,
+          "y": 29
+        }
+      }
+    ]
+  }
+]

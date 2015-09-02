@@ -1,0 +1,61 @@
+[
+  {
+    "__type__": "Fire.Scene",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "scene": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "Runtime.StageWrapper",
+    "content": [
+      {
+        "c": [
+          {
+            "w": {
+              "__id__": 1
+            },
+            "t": {
+              "speed": 3.141592653589793
+            },
+            "m": "6e1863zMS5HgaGP2jtXrVN3"
+          }
+        ],
+        "uuid": "88b894bd-fa83-4b21-a229-426be57d892b"
+      },
+      {
+        "__type__": "Runtime.SpriteWrapper",
+        "_name": "New Sprite",
+        "_objFlags": 0,
+        "_id": "a2158pC7IdDeoCM+IqsuFqo",
+        "_position": [
+          320,
+          240
+        ],
+        "_scale": [
+          1,
+          1
+        ],
+        "_rotation": 0,
+        "_pivot": [
+          0,
+          0
+        ],
+        "_alpha": 1,
+        "_textureType": 0,
+        "_texture": {
+          "__uuid__": "c1f98cd4-8343-40c2-9eed-f968e37b9266"
+        },
+        "_anchor": [
+          0.5,
+          0.5
+        ],
+        "_tint": 16777215,
+        "_blendMode": 0,
+        "_valOf$textureType": 0
+      }
+    ]
+  }
+]
