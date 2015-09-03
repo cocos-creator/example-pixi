@@ -16,28 +16,100 @@
           {
             "w": {
               "__id__": 1
-            },
-            "t": {
-              "speed": 3.14
-            },
-            "m": "6e1863zMS5HgaGP2jtXrVN3"
+            }
           },
           {
             "w": {
               "__id__": 2
-            }
+            },
+            "t": {
+              "maskObject": {
+                "__id__": 1
+              }
+            },
+            "m": "70d17l7MCBLZZWp8i6FigZ0",
+            "c": [
+              {
+                "w": {
+                  "__id__": 3
+                },
+                "t": {
+                  "speed": 3.14
+                },
+                "m": "6e1863zMS5HgaGP2jtXrVN3"
+              },
+              {
+                "w": {
+                  "__id__": 4
+                }
+              }
+            ]
           }
         ],
-        "uuid": "76b27e7b-8fc0-4cb8-92cf-414f4195af06"
+        "uuid": "95404b6a-d26e-444d-90b8-968193f1b1c7"
+      },
+      {
+        "__type__": "Runtime.SpriteWrapper",
+        "_name": "p2",
+        "_objFlags": 0,
+        "_id": "f4e4bmH1URE6oSMjp34CJrH",
+        "mask": null,
+        "_position": [
+          322.02247191011236,
+          242.6966292134832
+        ],
+        "_scale": [
+          1,
+          1
+        ],
+        "_rotation": 0,
+        "_pivot": [
+          0,
+          0
+        ],
+        "_alpha": 1,
+        "_textureType": 0,
+        "_texture": {
+          "__uuid__": "f207f060-bfc4-4e7c-9226-6f411e7bff99"
+        },
+        "_anchor": [
+          0.5,
+          0.5
+        ],
+        "_tint": 16777215,
+        "_blendMode": 0,
+        "_valOf$textureType": 0
+      },
+      {
+        "__type__": "Runtime.ContainerWrapper",
+        "_name": "New Container",
+        "_objFlags": 0,
+        "_id": "33ec0Lv/KhMX5mUqWUUYvD+",
+        "mask": null,
+        "_position": [
+          320.00000000000006,
+          240.00000000000003
+        ],
+        "_scale": [
+          1,
+          1
+        ],
+        "_rotation": 0,
+        "_pivot": [
+          0,
+          0
+        ],
+        "_alpha": 1
       },
       {
         "__type__": "Runtime.MovieClipWrapper",
         "_name": "New MovieClip",
         "_objFlags": 0,
         "_id": "163c572liNAmqsa5z/2Gb/J",
+        "mask": null,
         "_position": [
-          200,
-          240
+          -120,
+          0
         ],
         "_scale": [
           1,
@@ -79,9 +151,10 @@
         "_name": "New MovieClip",
         "_objFlags": 0,
         "_id": "95b1bJwwtFFWb6MJ/RBEGKr",
+        "mask": null,
         "_position": [
-          440,
-          240
+          120,
+          0
         ],
         "_scale": [
           1,
